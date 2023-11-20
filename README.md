@@ -10,7 +10,7 @@ Above is a screenshot of the excel data source showing the house sales data of t
 
 ## Tableau Public Link
 
-[ House Sales WA Dashboard ]("https://public.tableau.com/views/HouseSalesWA/HouseSales?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link")
+[ House Sales WA Dashboard ](https://public.tableau.com/views/HouseSalesWA/HouseSales?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ![completed-dashboard-2](https://github.com/irvincodes/house-sales-wa-tableau/assets/119061206/4406f916-6a02-4879-a19b-6e2ea7c3ca91)
 
