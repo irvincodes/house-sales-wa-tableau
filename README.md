@@ -61,7 +61,7 @@ I also did some of the below steps:
 - The highest number of price transactions for houses were between $250K to slightly over $400K
 - The number of transactions above $1m are insignificant, the huge majority are under
 - Majority of houses had 3 to 4 bedrooms and 2 to 3 bathrooms
-- The condition of the house played a bigger factor than the view of the house when it cames to average sales prices - A house with good view and poor condition fetched a much lower averages sale price than a house with poor view and good condition. 
+- The condition of the house played a bigger factor than the view of the house when it came to average sales prices; A house with good view and poor condition fetched a much lower average sale price than a house with poor view and good condition. 
 
 
 
