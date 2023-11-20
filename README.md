@@ -6,7 +6,7 @@
 
 ![excel-data](https://github.com/irvincodes/house-sales-wa-tableau/assets/119061206/efcf33b1-d3df-45fd-bd67-2f24881d6133)
 
-Above is a screenshot of the excel data source showing the house sales data of the Kings County area during the 2014-2015 period. The data table consists of 16 columns and has a total of 21,061 records.
+Above is a screenshot of the Excel data source showing the house sales data of the Kings County area during the 2014-2015 period. The data table consists of 16 columns and has a total of 21,061 records.
 
 ## Tableau Public Link
 
@@ -22,7 +22,7 @@ I created a series of worksheets and started off creating one showing a line cha
 
 ![Screenshot 2023-11-20 211345](https://github.com/irvincodes/house-sales-wa-tableau/assets/119061206/4d79680c-f6a6-4535-b657-8bc73f204d56)
 
-For some of the visualisations, after editing the Y axis label to "Frequency", I also changed the Tooltip labels to reflect the same name for consistency. 
+For some of the visualisations, after editing the Y-axis label to "Frequency", I also changed the Tooltip labels to reflect the same name for consistency. 
 
 ![3](https://github.com/irvincodes/house-sales-wa-tableau/assets/119061206/1bacaf72-bd15-4514-9fb1-8d4b64448565)
 
@@ -37,7 +37,7 @@ I also did some of the below steps:
 
 ![7](https://github.com/irvincodes/house-sales-wa-tableau/assets/119061206/18fd104d-a46a-4453-836e-e189f6d7316b)
 
-- Adjust the view style of certain visuals in the dashboards
+- Adjusted the view style of certain visuals in the dashboards
 
 ![8](https://github.com/irvincodes/house-sales-wa-tableau/assets/119061206/b7c14fc1-697c-4859-bfa4-72dd60037e55)
 
